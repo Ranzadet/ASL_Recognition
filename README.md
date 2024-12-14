@@ -5,4 +5,4 @@ Runnable Commands:
 None. Just follow the notebooks provided and run each cell sequentially.
 
 Contributions:
-Alex and Benen worked together to write the code for each file. 
+Alex Lehman and Benen Sullivan worked together to write the code for each file. 
